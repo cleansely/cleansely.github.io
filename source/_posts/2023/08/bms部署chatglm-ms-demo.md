@@ -3,6 +3,8 @@ title: bms部署chatglm-ms-demo
 date: 2023-08-15 18:04:00
 tags: 
     - modelarts 
+    - mindformers
+    - chatglm
 categories: 昇腾
 ---
 
